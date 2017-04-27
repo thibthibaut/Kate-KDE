@@ -1,0 +1,582 @@
+[$Version]
+update_info=kate-2.4.upd:kate2.4
+
+[CTags]
+GlobalCommand=ctags -R --c++-types=+px --extra=+q --excmd=pattern --exclude=Makefile --exclude=.
+GlobalNumTargets=0
+
+[Desktop Entry]
+DefaultProfile=Shell.profile
+
+[Document 0]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=cppstyle
+Mode=
+URL=
+
+[Document 1]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=C++
+Indentation Mode=cppstyle
+Mode=C++
+URL=file:///home/arthur/Catkin_Workspace/src/my_lib/src/my_lib/logger/logger.cpp
+
+[Document 2]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=XML
+Indentation Mode=xml
+Mode=XML
+URL=file:///home/arthur/Catkin_Workspace/src/my_lib/package.xml
+
+[Document 3]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=CMake
+Indentation Mode=cppstyle
+Mode=CMake
+URL=file:///home/arthur/Catkin_Workspace/src/my_lib/CMakeLists.txt
+
+[Document 4]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=C++
+Indentation Mode=cppstyle
+Mode=C++
+URL=file:///home/arthur/Catkin_Workspace/src/my_lib/test/test_logger.cpp
+
+[Document 5]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=C++
+Indentation Mode=cppstyle
+Mode=C++
+URL=file:///home/arthur/Catkin_Workspace/src/my_lib/include/my_lib/logger/logger.hpp
+
+[Document 6]
+Bookmarks=
+Encoding=UTF-8
+Highlighting=None
+Indentation Mode=cppstyle
+Mode=
+URL=file:///home/arthur/Catkin_Workspace/src/my_lib/.gitignore
+
+[DownloadDialog Settings]
+Height 768=442
+Width 1366=700
+
+[Favorite Profiles]
+Favorites=
+
+[General]
+Days Meta Infos=30
+Last Session=
+Modified Notification=false
+Restore Window Configuration=true
+Save Meta Infos=true
+Show Full Path in Title=true
+Show Menu Bar=true
+Show Status Bar=true
+Startup Session=last
+
+[KFileDialog Settings]
+Height 768=510
+Recent Files[$e]=ros_tcpserver.h,$HOME/Catkin_Workspace/src/my_lib/include/my_lib/logger/logger.h,$HOME/Catkin_Workspace/src/my_lib/CMakeLists.txt,$HOME/Catkin_Workspace/src/ros_tcpserver/CMakeLists.txt,$HOME/Catkin_Workspace/src/ros_tcpserver/include/ros_tcpserver/ros_tcpserver.h
+Recent URLs[$e]=$HOME/Catkin_Workspace/src/ros_tcpserver/include/ros_tcpserver/,$HOME/Catkin_Workspace/src/ros_tcpserver/,$HOME/Catkin_Workspace/src/my_lib/,$HOME/Catkin_Workspace/src/my_lib/include/my_lib/logger/
+Width 1366=816
+
+[Kate Document Defaults]
+Allow End of Line Detection=true
+Allow Simple Mode=true
+BOM=false
+Backup Flags=0
+Backup Prefix=
+Backup Suffix=~
+Encoding=UTF-8
+End of Line=0
+Indent On Backspace=false
+Indent On Tab=true
+Indent On Text Paste=true
+Indentation Mode=cppstyle
+Indentation Width=2
+Keep Extra Spaces=false
+Line Length Limit=4096
+Newline At EOF=false
+No sync=false
+On-The-Fly Spellcheck=false
+Overwrite Mode=false
+PageUp/PageDown Moves Cursor=false
+Remove Spaces=0
+ReplaceTabsDyn=true
+Search Dir Config Depth=9
+Show Spaces=true
+Show Tabs=true
+Smart Home=true
+Tab Handling=0
+Tab Width=2
+Word Wrap=true
+Word Wrap Column=80
+
+[Kate Part Defaults]
+Encoding Prober Type=1
+Fallback Encoding=ISO-8859-15
+
+[Kate Plugins]
+kate_kttsd=false
+katebacktracebrowserplugin=false
+katebuildplugin=true
+katecloseexceptplugin=true
+katectagsplugin=true
+katefilebrowserplugin=false
+katefiletemplates=false
+katefiletreeplugin=true
+kategdbplugin=true
+katekonsoleplugin=false
+katemailfilesplugin=false
+kateopenheaderplugin=true
+katepateplugin=false
+kateprojectplugin=true
+katereplicodeplugin=false
+katesearchplugin=true
+katesnippetsplugin=false
+katesqlplugin=false
+katesymbolviewerplugin=false
+katetabbarextensionplugin=false
+katetabifyplugin=false
+katetextfilterplugin=false
+katexmlcheckplugin=false
+katexmltoolsplugin=false
+
+[Kate Renderer Defaults]
+Animate Bracket Matching=true
+Schema=Vim (dark)
+Show Indentation Lines=true
+Show Whole Bracket Expression=false
+Word Wrap Marker=true
+
+[Kate Vi Input Mode Settings]
+Command Mode Mapping Keys=
+Command Mode Mappings=
+Command Mode Mappings Recursion=
+Insert Mode Mapping Keys=
+Insert Mode Mappings=
+Insert Mode Mappings Recursion=
+Macro Completions=
+Macro Contents=
+Macro Registers=
+Normal Mode Mapping Keys=
+Normal Mode Mappings=
+Normal Mode Mappings Recursion=
+Visual Mode Mapping Keys=
+Visual Mode Mappings=
+Visual Mode Mappings Recursion=
+
+[Kate View Defaults]
+Allow Mark Menu=true
+Auto Center Lines=0
+Auto Completion=true
+Bookmark Menu Sorting=0
+Default Mark Type=1
+Dynamic Word Wrap=false
+Dynamic Word Wrap Align Indent=50
+Dynamic Word Wrap Indicators=1
+Fold First Line=true
+Folding Bar=true
+Icon Bar=false
+Keyword Completion=true
+Line Modification=false
+Line Numbers=true
+Maximum Search History Size=100
+Persistent Selection=false
+Replacement Text History=
+Scroll Bar Marks=false
+Scroll Bar Mini Map=false
+Scroll Bar Mini Map All=false
+Scroll Bar Mini Map Width=60
+Scroll Past End=false
+Search Pattern History=
+Search/Replace Flags=140
+Show Scrollbars=0
+Smart Copy Cut=false
+Vi Input Mode=false
+Vi Input Mode Emulate Command Bar=false
+Vi Input Mode Steal Keys=false
+Vi Relative Line Numbers=false
+Word Completion=true
+Word Completion Minimal Word Length=3
+Word Completion Remove Tail=true
+
+[MainWindow]
+Height 768=769
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKLAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAAAAAAEgBnAGQAYgBwAGwAdQBnAGkAbgEAAAMa/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1360=1358
+Width 1366=1367
+
+[MainWindow0]
+Active ViewSpace=0
+Characters Count Visible=false
+Cursor Position Visible=true
+Document Name Visible=true
+Encoding Visible=true
+Height 768=769
+Insertion Mode Visible=true
+Kate-MDI-H-Splitter=237,1320,200
+Kate-MDI-Sidebar-0-Splitter=0,651
+Kate-MDI-Sidebar-1-Splitter=0
+Kate-MDI-Sidebar-3-Splitter=0,1077,0,0,0
+Kate-MDI-Sidebar-Style=2
+Kate-MDI-ToolView-Debug View-Persistent=false
+Kate-MDI-ToolView-Debug View-Position=3
+Kate-MDI-ToolView-Debug View-Sidebar-Position=3
+Kate-MDI-ToolView-Debug View-Visible=false
+Kate-MDI-ToolView-Locals and Stack-Persistent=false
+Kate-MDI-ToolView-Locals and Stack-Position=1
+Kate-MDI-ToolView-Locals and Stack-Sidebar-Position=0
+Kate-MDI-ToolView-Locals and Stack-Visible=false
+Kate-MDI-ToolView-kate_plugin_katesearch-Persistent=false
+Kate-MDI-ToolView-kate_plugin_katesearch-Position=3
+Kate-MDI-ToolView-kate_plugin_katesearch-Sidebar-Position=0
+Kate-MDI-ToolView-kate_plugin_katesearch-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katebuildplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katebuildplugin-Position=3
+Kate-MDI-ToolView-kate_private_plugin_katebuildplugin-Sidebar-Position=4
+Kate-MDI-ToolView-kate_private_plugin_katebuildplugin-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katectagsplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katectagsplugin-Position=3
+Kate-MDI-ToolView-kate_private_plugin_katectagsplugin-Sidebar-Position=2
+Kate-MDI-ToolView-kate_private_plugin_katectagsplugin-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Persistent=false
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Sidebar-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Visible=false
+Kate-MDI-ToolView-kateproject-Persistent=false
+Kate-MDI-ToolView-kateproject-Position=0
+Kate-MDI-ToolView-kateproject-Sidebar-Position=1
+Kate-MDI-ToolView-kateproject-Visible=false
+Kate-MDI-ToolView-kateprojectinfo-Persistent=false
+Kate-MDI-ToolView-kateprojectinfo-Position=3
+Kate-MDI-ToolView-kateprojectinfo-Sidebar-Position=1
+Kate-MDI-ToolView-kateprojectinfo-Visible=false
+Kate-MDI-V-Splitter=150,624,310
+Selection Mode Visible=true
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKLAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAAAAAAEgBnAGQAYgBwAGwAdQBnAGkAbgEAAAMa/////wAAAAAAAAAA
+Width 1366=1367
+
+[MainWindow0 Settings]
+Height 768=769
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKLAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAAAAADGgAAAAAAAAAAAAAAEgBnAGQAYgBwAGwAdQBnAGkAbgEAAAMa/////wAAAAAAAAAA
+Width 1366=1367
+WindowState=10
+
+[MainWindow0-Splitter 0]
+Children=MainWindow0-ViewSpace 0
+Orientation=2
+Sizes=624
+
+[MainWindow0-Splitter 1]
+Children=MainWindow0-ViewSpace 1,MainWindow0-ViewSpace 2
+Orientation=2
+Sizes=152,151
+
+[MainWindow0-ViewSpace 0]
+Active View=
+Count=1
+View 0=file:///home/arthur/Catkin_Workspace/src/my_lib/include/my_lib/logger/logger.h
+View 1=file:///home/arthur/Catkin_Workspace/src/my_lib/src/my_lib/logger/logger.cpp
+View 2=file:///home/arthur/Catkin_Workspace/src/my_lib/package.xml
+View 3=file:///home/arthur/Catkin_Workspace/src/my_lib/.gitignore
+View 4=file:///home/arthur/Catkin_Workspace/src/my_lib/CMakeLists.txt
+View 5=file:///home/arthur/Catkin_Workspace/src/my_lib/test/test_logger.cpp
+View 6=file:///home/arthur/Catkin_Workspace/src/my_lib/include/my_lib/logger/logger.hpp
+
+[MainWindow0-ViewSpace 0 file:///etc/default/rcS]
+CursorColumn=0
+CursorLine=11
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/arthur/.gitconfig]
+CursorColumn=12
+CursorLine=15
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/arthur/Catkin_Workspace/src/my_lib/.gitignore]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/arthur/Catkin_Workspace/src/my_lib/CMakeLists.txt]
+CursorColumn=1
+CursorLine=132
+JumpList=
+ViMarks=.,130,10,[,130,0,],130,10
+
+[MainWindow0-ViewSpace 0 file:///home/arthur/Catkin_Workspace/src/my_lib/include/my_lib/logger/logger.h]
+CursorColumn=14
+CursorLine=15
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/arthur/Catkin_Workspace/src/my_lib/include/my_lib/logger/logger.hpp]
+CursorColumn=0
+CursorLine=15
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/arthur/Catkin_Workspace/src/my_lib/package.xml]
+CursorColumn=15
+CursorLine=39
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/arthur/Catkin_Workspace/src/my_lib/src/my_lib/logger/logger.cpp]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/arthur/Catkin_Workspace/src/my_lib/test/test_logger.cpp]
+CursorColumn=35
+CursorLine=14
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/arthur/Catkin_Workspace/src/ros_tcpserver/.gitignore]
+CursorColumn=6
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/arthur/Catkin_Workspace/src/ros_tcpserver/.gitognore]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/arthur/Catkin_Workspace/src/ros_tcpserver/.kateproject]
+CursorColumn=44
+CursorLine=6
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/arthur/Catkin_Workspace/src/ros_tcpserver/CMakeLists.txt]
+CursorColumn=47
+CursorLine=13
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/arthur/Catkin_Workspace/src/ros_tcpserver/include/ros_tcpserver/ros_tcpserver.h]
+CursorColumn=44
+CursorLine=27
+JumpList=
+ViMarks=.,32,31,[,32,31,],32,31
+
+[MainWindow0-ViewSpace 0 file:///home/arthur/Catkin_Workspace/src/ros_tcpserver/package.xml]
+CursorColumn=32
+CursorLine=25
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/arthur/Catkin_Workspace/src/ros_tcpserver/src/ros_tcpserver/ros_tcpserver.cpp]
+CursorColumn=0
+CursorLine=10
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///home/arthur/Catkin_Workspace/src/ros_tcpserver/src/ros_tcpserver_node.cpp]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///local/perso/kate-cpp-helper-plugin/CMakeLists.txt]
+CursorColumn=29
+CursorLine=77
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 0 file:///usr/include/boost/numeric/ublas/matrix.hpp]
+CursorColumn=31
+CursorLine=2176
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 1]
+Active View=
+Count=1
+View 0=file:///home/arthur/Catkin_Workspace/src/my_lib/include/my_lib/logger/logger.h
+View 1=file:///home/arthur/Catkin_Workspace/src/my_lib/CMakeLists.txt
+
+[MainWindow0-ViewSpace 1 file:///etc/default/rcS]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 1 file:///home/arthur/Catkin_Workspace/src/my_lib/CMakeLists.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 1 file:///home/arthur/Catkin_Workspace/src/my_lib/include/my_lib/logger/logger.h]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 1 file:///home/arthur/Catkin_Workspace/src/ros_tcpserver/CMakeLists.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 1 file:///home/arthur/Catkin_Workspace/src/ros_tcpserver/include/ros_tcpserver/ros_tcpserver.h]
+CursorColumn=6
+CursorLine=2
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 1 file:///local/perso/kate-cpp-helper-plugin/CMakeLists.txt]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 1 file:///usr/include/boost/numeric/ublas/matrix.hpp]
+CursorColumn=0
+CursorLine=0
+JumpList=
+ViMarks=
+
+[MainWindow0-ViewSpace 2]
+Active View=
+Count=1
+
+[Open Documents]
+Count=1
+
+[Open MainWindows]
+Count=1
+
+[Plugin:katebuildplugin:MainWindow:0:build-plugin]
+0 BuildCmd Build=make
+0 BuildCmd Clean=make clean
+0 BuildCmd Config=cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_INSTALL_PREFIX=/usr/local ../
+0 BuildCmd ConfigClean=
+0 BuildCmd build=cd ../.. && catkin_make --pkg ros_tcpserver
+0 BuildCmd clean=catkin_make clean
+0 BuildCmd quick=
+0 BuildPath=
+0 Target=Target
+0 Target Clean=Clean
+0 Target Default=Build
+0 Target Names=Build,Clean,Config,ConfigClean
+Active Target Index=0
+NumTargets=1
+
+[Plugin:katecloseexceptplugin:menu]
+ShowConfirmation=true
+
+[Plugin:katectagsplugin:MainWindow:0:ctags-plugin]
+SessionDatabase=/home/arthur/.kde/share/apps/kate/plugins/katectags/session_db_20170408_102657
+SessionNumTargets=0
+TagsGenCMD=ctags -R --c++-types=+px --extra=+q --excmd=pattern --exclude=Makefile --exclude=.
+
+[Plugin:kategdbplugin:MainWindow:0]
+alwaysFocusOnInput=false
+lastTarget=-1
+redirectTerminal=false
+targetCount=1
+target_0=Target 1,,,,
+version=4
+
+[Plugin:katesearchplugin:MainWindow:0:search-plugin]
+BinaryFiles=false
+CurrentExcludeFilter=-1
+CurrentFilter=-1
+ExcludeFilters=
+ExpandSearchResults=false
+Filters=
+FollowSymLink=false
+HiddenFiles=false
+MatchCase=false
+Place=1
+Recursive=true
+Search=
+SearchDiskFiles=
+SearchDiskFiless=
+UseRegExp=false
+
+[Recent Files]
+File1[$e]=$HOME/Catkin_Workspace/src/my_lib/src/my_lib/logger/logger.cpp
+File10[$e]=$HOME/Catkin_Workspace/src/ros_slamer_edna/ros_slamer_edna_lib/include/ros_slamer_edna_lib/occupancy_grid/occupancy_grid.hpp
+File2[$e]=$HOME/Catkin_Workspace/src/my_lib/package.xml
+File3[$e]=$HOME/Catkin_Workspace/src/my_lib/.gitignore
+File4[$e]=$HOME/Catkin_Workspace/src/my_lib/CMakeLists.txt
+File5[$e]=$HOME/Catkin_Workspace/src/my_lib/test/test_logger.cpp
+File6[$e]=$HOME/Catkin_Workspace/src/my_lib/include/my_lib/logger/logger.hpp
+File7[$e]=$HOME/Catkin_Workspace/src/my_lib/include/my_lib/logger/logger.h
+File8[$e]=$HOME/Catkin_Workspace/src/ros_slamer_edna/ros_slamer_edna_lib/include/ros_slamer_edna_lib/occupancy_grid/occupancy_grid.h
+File9[$e]=$HOME/Catkin_Workspace/src/ros_slamer_edna/ros_slamer_edna_lib/include/ros_slamer_edna_lib/occupancy_grid/occupancy_grid.tpp
+Name1[$e]=logger.cpp
+Name10[$e]=occupancy_grid.hpp
+Name2[$e]=package.xml
+Name3[$e]=.gitignore
+Name4[$e]=CMakeLists.txt
+Name5[$e]=test_logger.cpp
+Name6[$e]=logger.hpp
+Name7[$e]=logger.h
+Name8[$e]=occupancy_grid.h
+Name9[$e]=occupancy_grid.tpp
+
+[Snippets]
+enabledRepositories=/home/arthur/.kde/share/apps//ktexteditor_snippets/ghns//C++ Snippets-0.6.xml,/home/arthur/.kde/share/apps//ktexteditor_snippets/ghns//General Purpose C++ Snippets-0.1.xml,/home/arthur/.kde/share/apps//ktexteditor_snippets/ghns//Sorting-Algorithms (C++)-1.1.xml,/home/arthur/.kde/share/apps/ktexteditor_snippets/ghns/General Purpose C++ Snippets-0.1.xml,/home/arthur/.kde/share/apps/ktexteditor_snippets/ghns/C++ Snippets-0.6.xml,/home/arthur/.kde/share/apps/ktexteditor_snippets/ghns/Sorting-Algorithms (C++)-1.1.xml
+
+[Snippets][repository /home/arthur/.kde/share/apps/ktexteditor_snippets/data/C++ Snippets-0.6.xml]
+shortcut dox=,
+shortcut snip:class=,
+shortcut snip:dox=,
+shortcut snip:doxygen=,
+shortcut snip:enum=,
+shortcut snip:function=,
+shortcut snip:headerguard=,
+shortcut snip:kdev-license=,
+shortcut snip:qt:include-moc-header=,
+shortcut snip:qt:include-moc-impl=,
+
+[Snippets][repository /home/arthur/.kde/share/apps/ktexteditor_snippets/data/General Purpose C++ Snippets-0.1.xml]
+shortcut class=,
+shortcut dowhile=,
+shortcut enum=,
+shortcut for=,
+shortcut foreach=,
+shortcut fori=,
+shortcut foriterator=,
+shortcut function=,
+shortcut gplheader=,
+shortcut if=,
+shortcut ifelse=,
+shortcut ifelseif=,
+shortcut macroifelse=,
+shortcut namespace=,
+shortcut struct=,
+shortcut switch=,
+shortcut templateclass=,
+shortcut templatefunc=,
+shortcut trycatch=,
+shortcut while=,
+
+[filetree]
+editShade=210,181,216
+listMode=false
+shadingEnabled=true
+showFullPathOnRoots=false
+sortRole=0
+viewShade=185,178,206
